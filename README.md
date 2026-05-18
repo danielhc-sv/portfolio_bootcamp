@@ -1,2 +1,5 @@
 # portfolio_bootcamp
-Portfólio profissional de Daniel Campos, focado em projetos acadêmicos e pessoais desenvolvidos para demonstração de habilidades técnicas e versionamento.
+Meu portifólio profissional 
+Objetivo: Repositório criado para aula de Bootcamp I para demonstrar habilidades em Git e GitHub
+Link do Site: https://danielhc-sv.github.io/portfolio_bootcamp/
+Estrutura: Explique que o repositório contém pastas para projetos acadêmicos e pessoais
